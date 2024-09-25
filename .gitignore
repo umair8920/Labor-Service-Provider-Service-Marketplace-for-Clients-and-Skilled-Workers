@@ -1,0 +1,9 @@
+# Ignore node_modules in node_modules
+LabourServiceProvider/node_modules/
+
+
+
+
+# Ignore other common files
+*.log
+.DS_Store
